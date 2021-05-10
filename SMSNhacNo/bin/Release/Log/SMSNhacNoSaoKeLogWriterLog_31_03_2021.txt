@@ -1,0 +1,3 @@
+31-03-2021 20:10:41 	f_cardBrn: MC, f_statementMonth: 202103, f_smsType: DEBT01
+31-03-2021 20:11:21 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+31-03-2021 20:11:21 	id: DEBT01800000523836202103, card brn: MC, Month: 202103, Loc: 800000523836 is successful

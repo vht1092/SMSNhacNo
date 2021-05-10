@@ -1,0 +1,41 @@
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\obj\Debug\ResolveAssemblyReference.cache
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.Form1.resources
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.frmSMSNhacNoDueDate.resources
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.frmSMSNhacNoSaoKe.resources
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.Properties.Resources.resources
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.csproj.GenerateResource.Cache
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\bin\Debug\SMSNhacNo.exe.config
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\bin\Debug\SMSNhacNo.exe
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\bin\Debug\SMSNhacNo.pdb
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\bin\Debug\TUONGHD.dll
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.exe
+D:\workspce_vs1\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.pdb
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\SMSNhacNo.exe.config
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\SMSNhacNo.exe.manifest
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\SMSNhacNo.application
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\SMSNhacNo.exe
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\SMSNhacNo.pdb
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\Syncfusion.Compression.Base.dll
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\Syncfusion.Licensing.dll
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\TUONGHD.dll
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\Syncfusion.Compression.Base.xml
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.csprojAssemblyReference.cache
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.csproj.ResolveComReference.cache
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.formMain.resources
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.frmInsertSMSDueDate.resources
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.frmInsertSMSThongBaoSaoKe.resources
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.frmSendSMSThongBaoSaoKe.resources
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.frmSendSMSNhacNoDueDate.resources
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.frmSMSNhacNoDueDate.resources
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.frmSMSNhacNoSaoKe.resources
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.Properties.Resources.resources
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.csproj.GenerateResource.cache
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.csproj.CoreCompileInputs.cache
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.exe.manifest
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.application
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.csproj.CopyComplete
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.exe
+D:\SOURCE\SMS Khoa 20191104\SMSNhacNo\SMSNhacNo\obj\Debug\SMSNhacNo.pdb

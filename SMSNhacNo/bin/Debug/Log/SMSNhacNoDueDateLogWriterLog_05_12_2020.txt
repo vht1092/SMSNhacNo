@@ -1,0 +1,9 @@
+05-12-2020 10:00:00 	----------------Begin Process-----------------
+05-12-2020 10:03:22 	Error RunService(), Index was outside the bounds of the array.
+05-12-2020 10:03:42 	----------------Begin Process-----------------
+05-12-2020 10:07:19 	Error RunService(), Index was outside the bounds of the array.
+05-12-2020 10:08:16 	----------------Begin Process-----------------
+05-12-2020 10:10:35 	----------------Begin Process-----------------
+05-12-2020 10:37:15 	Error CreateSMSMessage(), startIndex cannot be larger than length of string.
+Parameter name: startIndex
+05-12-2020 10:37:17 	LOC 800000687817 can not create message. Please check again

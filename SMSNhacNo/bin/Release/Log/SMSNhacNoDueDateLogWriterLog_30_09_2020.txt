@@ -1,0 +1,4 @@
+30-09-2020 10:30:07 	----------------Begin Process-----------------
+30-09-2020 14:18:02 	f_statementMonth: 202008, f_dueDate: 20201002, f_smsType: DEBT02
+30-09-2020 14:18:12 	List SMS Nhac No Due Date is null. Please check again
+30-09-2020 14:23:53 	----------------Begin Process-----------------

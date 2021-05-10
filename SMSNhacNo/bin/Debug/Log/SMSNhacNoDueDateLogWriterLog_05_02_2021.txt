@@ -1,0 +1,7 @@
+05-02-2021 09:01:52 	----------------Begin Process-----------------
+05-02-2021 09:05:37 	Error CreateSMSMessage(), startIndex cannot be larger than length of string.
+Parameter name: startIndex
+05-02-2021 09:11:15 	LOC 800000687817 can not create message. Please check again
+05-02-2021 09:11:15 	Error CreateSMSMessage(), startIndex cannot be larger than length of string.
+Parameter name: startIndex
+05-02-2021 09:11:16 	LOC 800000855346 can not create message. Please check again

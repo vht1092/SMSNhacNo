@@ -1,0 +1,51 @@
+01-09-2020 11:27:46 	----------------Begin Process-----------------
+01-09-2020 11:29:12 	User press button No ==> exit
+01-09-2020 11:47:21 	f_cardBrn: MC, f_statementMonth: 202008, f_smsType: DEBT01
+01-09-2020 11:47:59 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:47:59 	id: DEBT01800000220277202008, card brn: MC, Month: 202008, Loc: 800000220277 is successful
+01-09-2020 11:47:59 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:47:59 	id: DEBT01800000831200202008, card brn: MC, Month: 202008, Loc: 800000831200 is successful
+01-09-2020 11:47:59 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:47:59 	id: DEBT01800000269921202008, card brn: MC, Month: 202008, Loc: 800000269921 is successful
+01-09-2020 11:47:59 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:47:59 	id: DEBT01800000287911202008, card brn: MC, Month: 202008, Loc: 800000287911 is successful
+01-09-2020 11:47:59 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:47:59 	id: DEBT01800000292098202008, card brn: MC, Month: 202008, Loc: 800000292098 is successful
+01-09-2020 11:47:59 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:47:59 	id: DEBT01800000300094202008, card brn: MC, Month: 202008, Loc: 800000300094 is successful
+01-09-2020 11:48:00 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:00 	id: DEBT01800000453888202008, card brn: MC, Month: 202008, Loc: 800000453888 is successful
+01-09-2020 11:48:00 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:00 	id: DEBT01800000464696202008, card brn: MC, Month: 202008, Loc: 800000464696 is successful
+01-09-2020 11:48:00 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:00 	id: DEBT01800000481573202008, card brn: MC, Month: 202008, Loc: 800000481573 is successful
+01-09-2020 11:48:00 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:00 	id: DEBT01800000482738202008, card brn: MC, Month: 202008, Loc: 800000482738 is successful
+01-09-2020 11:48:00 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:00 	id: DEBT01800000482741202008, card brn: MC, Month: 202008, Loc: 800000482741 is successful
+01-09-2020 11:48:00 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:00 	id: DEBT01800000569577202008, card brn: MC, Month: 202008, Loc: 800000569577 is successful
+01-09-2020 11:48:00 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:00 	id: DEBT01800000633838202008, card brn: MC, Month: 202008, Loc: 800000633838 is successful
+01-09-2020 11:48:00 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:00 	id: DEBT01800000660271202008, card brn: MC, Month: 202008, Loc: 800000660271 is successful
+01-09-2020 11:48:01 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:01 	id: DEBT01800000668006202008, card brn: MC, Month: 202008, Loc: 800000668006 is successful
+01-09-2020 11:48:01 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:01 	id: DEBT01800000724359202008, card brn: MC, Month: 202008, Loc: 800000724359 is successful
+01-09-2020 11:48:01 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:01 	id: DEBT01800000724452202008, card brn: MC, Month: 202008, Loc: 800000724452 is successful
+01-09-2020 11:48:01 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:01 	id: DEBT01800000725225202008, card brn: MC, Month: 202008, Loc: 800000725225 is successful
+01-09-2020 11:48:01 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:01 	id: DEBT01800000741524202008, card brn: MC, Month: 202008, Loc: 800000741524 is successful
+01-09-2020 11:48:01 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:01 	id: DEBT01800000760448202008, card brn: MC, Month: 202008, Loc: 800000760448 is successful
+01-09-2020 11:48:01 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:01 	id: DEBT01800000791776202008, card brn: MC, Month: 202008, Loc: 800000791776 is successful
+01-09-2020 11:48:01 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:01 	id: DEBT01800000795090202008, card brn: MC, Month: 202008, Loc: 800000795090 is successful
+01-09-2020 11:48:01 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:01 	id: DEBT01800000805973202008, card brn: MC, Month: 202008, Loc: 800000805973 is successful
+01-09-2020 11:48:02 	UpdateStatusSMSNhacNoSaoKe: Update stattus record DB SMS_NHAC_NO
+01-09-2020 11:48:02 	id: DEBT01800000236119202008, card brn: MC, Month: 202008, Loc: 800000236119 is successful

@@ -1,0 +1,3 @@
+05-04-2021 13:57:40 	f_statementMonth: 202103, f_dueDate: 20210409, f_smsType: DEBT02
+05-04-2021 13:57:51 	Get data DB SMS_NHAC_NO failed because ORA-00900: invalid SQL statement
+
